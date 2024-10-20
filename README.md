@@ -1,7 +1,8 @@
 ![Design & development](https://github.com/yassine-ahmed/yassine-ahmed/blob/main/Banner.png)
 
 ### Hi there 👋, my name is Yassine Ahmed
-Passionate and versatile software developer, eager to contribute to dynamic and innovative web development, application development, and artificial intelligence projects. With a strong foundation in full-stack development, I understand modern frameworks and tools such as React.js, Next.js, Laravel, and TensorFlow. I aim to leverage my skills to design scalable, efficient, and user-friendly solutions, while continuously expanding my expertise in cutting-edge technologies.
+<p align="left"> Passionate and versatile software developer, eager to contribute to dynamic and innovative web development, application development, and artificial intelligence projects. With a strong foundation in full-stack development, I understand modern frameworks and tools such as React.js, Next.js, Laravel, and TensorFlow. I aim to leverage my skills to design scalable, efficient, and user-friendly solutions, while continuously expanding my expertise in cutting-edge technologies. </p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
