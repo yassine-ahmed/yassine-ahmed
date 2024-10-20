@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yassine Ahmed
 #### Design & development
-![Design & development](https://media.licdn.com/dms/image/v2/D4D16AQHNWv42Dz5BZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729384518011?e=1735171200&v=beta&t=Lbln9U9YT1R9AznIPHp7Z_Ft9Qy735Nk_FTXm7QQys8)
+![Design & development](https://github.com/yassine-ahmed/yassine-ahmed/blob/main/Banner.png)
 
 I'm a full-stack developer with 1 year of experience. I enjoy building sites & apps. My focus is React (Next.js).
 
